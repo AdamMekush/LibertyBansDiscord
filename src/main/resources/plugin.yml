@@ -3,6 +3,7 @@ version: '1.0'
 main: dev.slide_am.lbd.LibertyBansDiscord
 api-version: '1.20'
 authors: [ Slide_AM ]
+folia-supported: true
 
 depend:
   - LibertyBans
